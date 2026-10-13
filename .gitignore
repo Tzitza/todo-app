@@ -1,0 +1,15 @@
+﻿# Environment variables (passwords, secrets)
+.env
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Go build output
+*.exe
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
